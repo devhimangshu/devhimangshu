@@ -39,6 +39,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact" alt="devhimangshu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en" alt="devhimangshu" /></p>
+<p>&nbsp;<img align="center" src="https://himangshu.site/githubstats" alt="devhimangshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&" alt="devhimangshu" /></p>
