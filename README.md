@@ -7,7 +7,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devhimangshu&label=Profile%20views&color=0e75b6&style=flat" alt="devhimangshu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devhimangshu&label=Profile%20visits&base=593562&color=brightgreen&style=for-the-badge" alt="devhimangshu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhimangshu" alt="devhimangshu" /></a> </p>
 
