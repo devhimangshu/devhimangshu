@@ -39,4 +39,30 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devhimangshu&show_icons=true&locale=en" alt="devhimangshu" /></p>
 
+
+
+<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" style="font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; animation: fadeInAnimation 0.8s ease-in-out forwards;">
+  <title id="titleId">Himangshu Paul's GitHub Stats, Rank: C</title>
+  <desc id="descId">Total Stars Earned: 1, Total Commits in 2024 : 1, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#fffefe" stroke-opacity="1"></rect>
+
+  <g data-testid="card-title" transform="translate(25, 35)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">Himangshu Paul's GitHub Stats</text>
+    </g>
+  </g>
+
+  <g data-testid="main-card-body" transform="translate(0, 55)">
+    <!-- Remaining SVG elements with inline styles -->
+    <!-- ... -->
+
+  </g>
+</svg>
+
+
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&" alt="devhimangshu" /></p>
