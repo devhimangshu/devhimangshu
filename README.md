@@ -1,3 +1,54 @@
+<style>/* Add a background color to the body */
+body {
+  background-color: #f7f7f7;
+}
+
+/* Style the main heading */
+h1 {
+  color: #0366d6; /* GitHub's primary color */
+}
+
+/* Style the subheading */
+h3 {
+  color: #586069; /* GitHub's secondary text color */
+}
+
+/* Style the links */
+a {
+  color: #0366d6;
+}
+
+/* Style the profile visit counter */
+.svg-inline--fa {
+  fill: brightgreen; /* Color for the profile visit counter */
+}
+
+/* Style the GitHub stats cards */
+.gist {
+  background-color: #fff;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 16px 0;
+}
+
+/* Style the language and tools icons */
+img[src*="devicon"] {
+  width: 40px; /* Adjust the size of the icons */
+  height: 40px;
+  margin-right: 10px;
+}
+
+/* Add a border to the GitHub stats cards */
+.github-stats {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 16px;
+  margin-top: 16px;
+}
+</style>
+
+
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://himangshu.site)
 
 
@@ -38,31 +89,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact" alt="devhimangshu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devhimangshu&show_icons=true&locale=en" alt="devhimangshu" /></p>
-
-
-
-<svg width="467" height="195" viewBox="0 0 467 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId" style="font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed; animation: fadeInAnimation 0.8s ease-in-out forwards;">
-  <title id="titleId">Himangshu Paul's GitHub Stats, Rank: C</title>
-  <desc id="descId">Total Stars Earned: 1, Total Commits in 2024 : 1, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
-
-  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#fffefe" stroke-opacity="1"></rect>
-
-  <g data-testid="card-title" transform="translate(25, 35)">
-    <g transform="translate(0, 0)">
-      <text x="0" y="0" class="header" data-testid="header">Himangshu Paul's GitHub Stats</text>
-    </g>
-  </g>
-
-  <g data-testid="main-card-body" transform="translate(0, 55)">
-    <!-- Remaining SVG elements with inline styles -->
-    <!-- ... -->
-
-  </g>
-</svg>
-
-
-
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&" alt="devhimangshu" /></p>
