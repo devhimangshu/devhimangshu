@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Realtime Database**
 
-- 👨‍💻 All of my projects are available at [himangshu.site](himangshu.site)
+- 👨‍💻 All of my projects are available at [himangshu.site](https://www.himangshu.site)
 
 - 💬 Ask me about **Android,Web**
 
