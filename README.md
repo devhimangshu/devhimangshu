@@ -9,9 +9,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devhimangshu&label=Profile%20visits&base=593562&color=brightgreen&style=for-the-badge" alt="devhimangshu" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavchanda" alt="devhimangshu" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishavchanda" alt="devhimangshu" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **TopupWala**
 
 - 🌱 I’m currently learning **Realtime Database**
